@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="COE Owned Design"
+    id="id-effedbd8881941298ad5c7261b3cad9d">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-796442f7568f4b87b2509585957fe5ff.xml#id-796442f7568f4b87b2509585957fe5ff"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-d4a2397a02d943e89ab2ae96e357bd31.xml#id-d4a2397a02d943e89ab2ae96e357bd31"/>
+</archimate:RealizationRelationship>
